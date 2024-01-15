@@ -9,3 +9,21 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+
+
+# Dependency directories
+node_modules/
+
+#VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Talisman config
+.talismanrc
